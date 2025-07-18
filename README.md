@@ -1,7 +1,7 @@
 <h1 align = "center"> Welcome to the my profile </h1>
 <h3 align = "left"> About me<br>
 <h4>
-My name is Marcos Vinícius, I'm 18 years old and I live in Recife. I finished high school at the Porto Digital State Technical School, with the Systems Development course. Currently, I am studying Software Engineering. Passionate about technology and always looking to learn more! </h4>
+My name is Marcos Vinícius, I'm 19 years old and I live in Recife. I finished high school at the Porto Digital State Technical School, with the Systems Development course. Currently, I am studying Software Engineering. Passionate about technology and always looking to learn more! </h4>
 
 </h3>
 
