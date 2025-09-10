@@ -9,7 +9,7 @@ My name is Marcos Vinícius, I'm 19 years old and I live in Recife. I finished h
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif">
 
 
-<h3> 📓 I’m currently learning Html,Css, Js and Java </h3> 
+<h3> 📓 I’m currently learning Html, Css, Js and Java </h3> 
 
 
 ###
