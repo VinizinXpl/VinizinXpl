@@ -9,11 +9,8 @@ My name is Marcos Vinícius, I'm 19 years old and I live in Recife. I finished h
 <img align="right" alt="Coding" width="300" src="https://media1.tenor.com/m/tKUzbi783KwAAAAd/bers.gif">
 
 
-<h3> 📓 I’m currently learning Java and C++ </h3> 
+<h3> 📓 I’m currently learning HTML,CSS, JS AND JAVA </h3> 
 
-<h3 align="left">Languages and Tools:</h3>
- </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40"/> </a>
 
 ###
  <div align="left">
